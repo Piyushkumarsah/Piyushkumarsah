@@ -1,22 +1,22 @@
-<h2 align="center">Hi 👋! My name is Piyush and I'm a Engineer, from NIT Jalandhar</h2>
+<h2 align="left">Hi 👋! My name is Piyush and I'm a Engineer, from NIT Jalandhar</h2>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="150" src="https://scontent.fpat2-1.fna.fbcdn.net/v/t39.30808-6/450069806_1894332747713105_8031515565161774374_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qNH0xeh_3PQQ7kNvgEeZ9jz&_nc_ht=scontent.fpat2-1.fna&oh=00_AYCRgZdQzlZdeZOPvCMMH_E9RYsW0m3MesxZ9Gm11YvKaA&oe=669F0147"  />
+<img align="right" height="200" src="https://scontent.fpat2-1.fna.fbcdn.net/v/t39.30808-6/450069806_1894332747713105_8031515565161774374_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qNH0xeh_3PQQ7kNvgEeZ9jz&_nc_ht=scontent.fpat2-1.fna&oh=00_AYBBuJHWYkdWddTEDObIeRjALMWmlrquG9tp_iw2fji4Qw&oe=669F3987"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushkumarsah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="124" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushkumarsah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="134" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -46,7 +46,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/____kumar_piyush____/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
@@ -62,8 +62,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Piyushkumarsah/count.svg?"  />
-</div>
+<img align="left" src="https://profile-counter.glitch.me/Piyushkumarsah/count.svg?"  />
 
 ###
